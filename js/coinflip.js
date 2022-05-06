@@ -6,7 +6,7 @@
 */
 
 // Ethereum contract address in Rinkeby testnet
-contractAddress = '0xdf83258db88333109237b3541e204cc88549dcf5';
+contractAddress = '0xe61F056c3491c9E58820d093e0E7CE5387761CB6';
 
 // Limit number of played games to fetch and display in UI
 lastPlayedGamesLimit = 10;
